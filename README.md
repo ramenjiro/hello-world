@@ -4,6 +4,6 @@ Hi!
 
 I'm ramenjiro.
 Ramen is Jiro.
-Jiro is ramen.
+Jiro is Ramen.
 
 Thank you.
